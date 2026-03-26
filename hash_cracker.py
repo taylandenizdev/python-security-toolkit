@@ -1,6 +1,6 @@
 import hashlib
 
-file_name = "ordlist.txt"
+file_name = "wordlist.txt"
 target_hash = "124ef0adfe8381a3a87420423bf8113954b7e06090583470136c20dd7d907e0b"
 
 try:
